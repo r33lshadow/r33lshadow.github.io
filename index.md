@@ -12,4 +12,4 @@ Lab 6, Part 1
 This was another favorite lab of mine mainly for the in person lab portion of this lab. Most of the labs were pretty boring or felt like work when we were doing them. This lab was actually fun to work on in class and having fun with making our sandwich was the first time we felt cool coding in C++.
 
 Lab 10
-This was probably my favorite lab because it felt like the first piece of code that could be used in a real world scenario. This made all the C++ learned in the past feel like it was finally coming full circle. Using 2D vectors to return the counties and population felt like real code. 
+This was probably my favorite lab because it felt like the first piece of code that could be used in a real world scenario. This made all the C++ learned in the past feel like it was finally coming full circle. Using 2D vectors to return the counties and population felt like "real" code. 
